@@ -1,7 +1,7 @@
 # GIF-goin-SimpleRocket2
 This is a simple JAVA program that converts bmp picture into a special format for Vizzy can use.
 It will merge Vertically first.Then scale color information(0\~255) into 0.0000\~0.9945 and put them in a row like "r.rrrr,g.gggg,b.bbbbr.rrrr,g.gggg,b.bbbb".It starts from Left-Top(x0y0) and move like "x0y0x1y0x2y0".
-#### use "java -jar <jarname>.jar" to run
+#### use "java -jar \<jarname\>.jar" to run
 ### This program has 2 functions.
   1. Merge and Translate.
   2. Just Translate.
@@ -21,7 +21,7 @@ input -1 at the 3rd time ask for input.
 The rests r the same as the 1st function.
 
 ### Make sure files and folders form like this
-│   <jarname>.jar
+│   \<jarname\>.jar
   
 │   out.txt
 
