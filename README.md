@@ -9,9 +9,9 @@ It will merge Vertically first.Then scale color information(0\~255) into 0.0000\
   Start with "IMG"
   5 digits of numbers
   End with ".bmp"
-The numbers of different picture should be continuous(like IMG00000.bmp IMG000001.bmp)
-Then input the numbers of the picture's name which u want to start from at the first time the console ask for input
-Input how many other pictures u want to merge at the 3rd time ask for input
+The numbers of different picture should be continuous(like IMG00000.bmp IMG000001.bmp).
+Then input the numbers of the picture's name which u want to start from at the first time the console ask for input.
+Input how many other pictures u want to merge at the 3rd time ask for input.
 Then just wait for it is done.The data is in "out.txt".
   
 ### For the 2nd function
